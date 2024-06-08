@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Ayotunde-Adisa/Ayotunde-Adisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am Ayotunde Adisa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## - 🔭 I’m currently working as a Clinical Statistical Programmer
+## - 🌱 I’m currently learning Data Analysis
+## - 👯 I’m looking to collaborate on projects that can help sharpen my skill
+## - 🤔 I’m looking for help with data 
+## - 💬 Ask me about statistical programming, SAS for data analysis, clinical data management
+## - 📫 How to reach me: www.linkedin.com/in/ayotunde-adisa-45495418a
+## - 😄 Pronouns: He
+## - ⚡ Fun fact: Public Speaking is one hobby I love after data analysis
 -->
