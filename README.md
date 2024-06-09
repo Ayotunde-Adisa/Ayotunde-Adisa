@@ -9,7 +9,7 @@
  - 👯 I’m looking to collaborate on projects that can help sharpen my skill
  - 🤔 I’m looking for help with data 
  - 💬 Ask me about statistical programming, SAS for data analysis, clinical data management
- - 📫 How to reach me [![](https://i.sstatic.net/gVE0j.png)LinkedIn](www.linkedin.com/in/ayotunde-adisa-45495418a)
+ - 📫 How to reach me [LinkedIn](www.linkedin.com/in/ayotunde-adisa-45495418a)
  - 😄 Pronouns: He
  - ⚡ Fun fact: Public Speaking is one hobby I love after data analysis
 -->
